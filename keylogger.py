@@ -15,7 +15,7 @@ def convertir_string(keys):
 
 
 def soltar_tecla(key):
-    if key == Key.esc:
+    if key == Key:
         return False
 
 
